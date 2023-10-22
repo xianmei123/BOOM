@@ -1,0 +1,125 @@
+
+3.png
+size: 4961,1368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmR
+  rotate: false
+  xy: 4102, 18
+  size: 440, 691
+  orig: 440, 691
+  offset: 0, 0
+  index: -1
+ArmR1
+  rotate: true
+  xy: 1568, 281
+  size: 307, 471
+  orig: 307, 471
+  offset: 0, 0
+  index: -1
+Liuhai
+  rotate: false
+  xy: 4544, 2
+  size: 332, 334
+  orig: 335, 337
+  offset: 2, 2
+  index: -1
+armL
+  rotate: true
+  xy: 3439, 106
+  size: 483, 661
+  orig: 483, 661
+  offset: 0, 0
+  index: -1
+armL1
+  rotate: false
+  xy: 4544, 338
+  size: 306, 455
+  orig: 308, 455
+  offset: 0, 0
+  index: -1
+closeeye
+  rotate: false
+  xy: 2, 255
+  size: 783, 1111
+  orig: 886, 1111
+  offset: 103, 0
+  index: -1
+closeeyesmail
+  rotate: false
+  xy: 787, 257
+  size: 779, 1109
+  orig: 884, 1109
+  offset: 105, 0
+  index: -1
+hairL
+  rotate: true
+  xy: 564, 67
+  size: 186, 598
+  orig: 186, 604
+  offset: 0, 6
+  index: -1
+hairR
+  rotate: true
+  xy: 2, 27
+  size: 226, 560
+  orig: 226, 560
+  offset: 0, 0
+  index: -1
+handL
+  rotate: true
+  xy: 1591, 51
+  size: 228, 426
+  orig: 228, 426
+  offset: 0, 0
+  index: -1
+handR
+  rotate: true
+  xy: 1164, 13
+  size: 242, 425
+  orig: 242, 427
+  offset: 0, 2
+  index: -1
+smail
+  rotate: true
+  xy: 2681, 591
+  size: 775, 1111
+  orig: 886, 1111
+  offset: 110, 0
+  index: -1
+yelloweye
+  rotate: true
+  xy: 1568, 590
+  size: 776, 1111
+  orig: 886, 1111
+  offset: 109, 0
+  index: -1
+youshang
+  rotate: false
+  xy: 3794, 711
+  size: 632, 655
+  orig: 635, 655
+  offset: 2, 0
+  index: -1
+youxia
+  rotate: true
+  xy: 4428, 795
+  size: 571, 531
+  orig: 573, 531
+  offset: 1, 0
+  index: -1
+zuoshang
+  rotate: false
+  xy: 2041, 21
+  size: 698, 567
+  orig: 698, 567
+  offset: 0, 0
+  index: -1
+zuoxia
+  rotate: false
+  xy: 2741, 66
+  size: 696, 523
+  orig: 696, 523
+  offset: 0, 0
+  index: -1

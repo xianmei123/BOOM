@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7956165460689156982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: fb4a58d4-f914-421a-ba37-ca9d9a6f4d7c
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 250
+    y: 0
+    width: 200
+    height: 100
+  children:
+  - dea0d3be-830d-4177-b4dc-384b7b40b840
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u53C8\u5230\u5355\u4F4D\u4E86\uFF0C\u8FD9\u4EFD\u5DE5\u4F5C\u662F\u7238\u5988\u62D6\u5173\u7CFB\u627E\u6765\u7684\uFF0C\u867D\u7136\u7A33\u5B9A\u4F46\u6211\u4E1D\u6BEB\u4E0D\u559C\u6B22\u3002"
+  onEnterActions: []
+  onExitActions: []
+--- !u!114 &-1850901050992159411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: b8f3f275-e6e6-4809-bafb-45eb7bede5d4
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 1000
+    y: 0
+    width: 200
+    height: 100
+  children: []
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u5982\u679C\u6211\u5F53\u65F6\u575A\u6301\u8D70\u753B\u753B\u8FD9\u6761\u8DEF\uFF0C\u4E0D\u77E5\u9053\u8FD0\u6C14\u80FD\u4E0D\u80FD\u66F4\u597D\u4E9B\u3002"
+  onEnterActions: []
+  onExitActions: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20020754e2d077c45a6d80bb16361ff0, type: 3}
+  m_Name: 004
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 5090891777687796564}
+  - {fileID: -7956165460689156982}
+  - {fileID: 5854907649335004516}
+  - {fileID: 634864665929392962}
+  - {fileID: -1850901050992159411}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &634864665929392962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: 808a8968-fcdc-4524-a412-b6c8487fa4a8
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 750
+    y: 0
+    width: 200
+    height: 100
+  children:
+  - b8f3f275-e6e6-4809-bafb-45eb7bede5d4
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u5012\u9709\uFF0C\u66F4\u4E0D\u60F3\u8E0F\u8FDB\u5355\u4F4D\u4E86\u3002\u611F\u89C9\u540C\u4E8B\u7684\u76EE\u5149\u90FD\u53D8\u5F97\u51F6\u72E0\u8D77\u6765\u4E86\u3002"
+  onEnterActions: []
+  onExitActions: []
+--- !u!114 &5090891777687796564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822a81aab4654797922d52078d026c07, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100
+  children:
+  - fb4a58d4-f914-421a-ba37-ca9d9a6f4d7c
+  condition:
+    and: []
+--- !u!114 &5854907649335004516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: dea0d3be-830d-4177-b4dc-384b7b40b840
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 500
+    y: 0
+    width: 200
+    height: 100
+  children:
+  - 808a8968-fcdc-4524-a412-b6c8487fa4a8
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u6C42\u4E2A\u7B7E\u5427\uFF0C\u4ECA\u5929\u5728\u5355\u4F4D\u80FD\u597D\u8FC7\u4E9B\u5417\uFF1F"
+  onEnterActions: []
+  onExitActions: []

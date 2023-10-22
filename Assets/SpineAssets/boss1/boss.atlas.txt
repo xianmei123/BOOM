@@ -1,0 +1,83 @@
+
+boss.png
+size: 3345,1190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 101
+  size: 977, 1087
+  orig: 983, 1088
+  offset: 3, 0
+  index: -1
+HairL
+  rotate: true
+  xy: 1618, 577
+  size: 220, 902
+  orig: 222, 902
+  offset: 0, 0
+  index: -1
+HairR
+  rotate: true
+  xy: 1618, 799
+  size: 389, 887
+  orig: 389, 887
+  offset: 0, 0
+  index: -1
+armL
+  rotate: true
+  xy: 2522, 581
+  size: 299, 804
+  orig: 299, 804
+  offset: 0, 0
+  index: -1
+armR
+  rotate: true
+  xy: 2507, 882
+  size: 306, 803
+  orig: 306, 804
+  offset: 0, 1
+  index: -1
+handL
+  rotate: false
+  xy: 2912, 205
+  size: 217, 374
+  orig: 217, 375
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 3131, 225
+  size: 212, 354
+  orig: 213, 354
+  offset: 1, 0
+  index: -1
+youshang
+  rotate: false
+  xy: 981, 533
+  size: 635, 655
+  orig: 635, 655
+  offset: 0, 0
+  index: -1
+youxia
+  rotate: true
+  xy: 2379, 2
+  size: 573, 531
+  orig: 573, 531
+  offset: 0, 0
+  index: -1
+zuoshang
+  rotate: false
+  xy: 1679, 8
+  size: 698, 567
+  orig: 698, 567
+  offset: 0, 0
+  index: -1
+zuoxia
+  rotate: false
+  xy: 981, 8
+  size: 696, 523
+  orig: 696, 523
+  offset: 0, 0
+  index: -1

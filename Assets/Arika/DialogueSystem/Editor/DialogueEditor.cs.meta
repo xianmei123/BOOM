@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 728cd968a175cdb45b56784054de37d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - playerDialogueActor: {fileID: 11400000, guid: 7fdc7f5e608facc489d9f5e4e8c9778b,
+      type: 2}
+  - styleCustomNodeBasic: {fileID: 11400000, guid: e1d2911fbcb606249ba28ab7a33bcce4,
+      type: 2}
+  - styleCustomNodeStart: {fileID: 11400000, guid: 893e43bbdba43ca4ca1e7c5d83d9a8ca,
+      type: 2}
+  - styleCustomNodePlayer: {fileID: 11400000, guid: 3e0a3dc6b11f3834294a11a654c7c7b2,
+      type: 2}
+  - styleCustomNodeNonPlayer: {fileID: 11400000, guid: 80d7ae81b8f4a1441ad8ef01836105c7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

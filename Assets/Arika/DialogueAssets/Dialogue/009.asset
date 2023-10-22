@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8678479830197506833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: 203e59dc-d3d6-471b-81f2-1f510c6fa2fb
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 749
+    y: 0
+    width: 200
+    height: 100
+  children:
+  - c7147c37-0f0b-4b98-87b2-b38cfaefe8ce
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u53EF\u3002\u3002\u3002\u660E\u660E\u8DDF\u81EA\u5DF1\u8BF4\u597D\u7684\u4E0D\u518D\u4F9D\u8D56\u6C42\u7B7E\u7684\u3002"
+  onEnterActions: []
+  onExitActions: []
+--- !u!114 &-5432699397205063036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: c7147c37-0f0b-4b98-87b2-b38cfaefe8ce
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 999
+    y: 0
+    width: 200
+    height: 100
+  children: []
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u4E0D\u77E5\u9053\u7ED3\u679C\u5982\u4F55\uFF0C\u597D\u5BB3\u6015\u3002"
+  onEnterActions: []
+  onExitActions: []
+--- !u!114 &-2050148038381683853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: 6d2c1aa1-f166-48b6-b363-998fca055630
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 498
+    y: 2
+    width: 200
+    height: 100
+  children:
+  - 203e59dc-d3d6-471b-81f2-1f510c6fa2fb
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u8FD8\u662F\u5F97\u6C42\u4E00\u7B7E\u95EE\u4E00\u95EE\u624D\u884C\u3002"
+  onEnterActions: []
+  onExitActions: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20020754e2d077c45a6d80bb16361ff0, type: 3}
+  m_Name: 009
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 1725776520283579037}
+  - {fileID: 2645540503130042232}
+  - {fileID: -2050148038381683853}
+  - {fileID: -8678479830197506833}
+  - {fileID: -5432699397205063036}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &1725776520283579037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822a81aab4654797922d52078d026c07, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100
+  children:
+  - c4f99113-9f7f-44a0-acc3-05efcdc5c22d
+  condition:
+    and: []
+--- !u!114 &2645540503130042232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2ef30bde2b84041a278eee1d8556ae, type: 3}
+  m_Name: c4f99113-9f7f-44a0-acc3-05efcdc5c22d
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: 249
+    y: 0
+    width: 200
+    height: 100
+  children:
+  - 6d2c1aa1-f166-48b6-b363-998fca055630
+  condition:
+    and: []
+  actor: {fileID: 11400000, guid: 28274c15493413a42b09ac7896714909, type: 2}
+  text: "\u6CA1\u4EBA\u544A\u8BC9\u6211\u7ED3\u679C\uFF0C\u5185\u5FC3\u8FD8\u662F\u5F88\u5FD0\u5FD1\uFF0C\u5C24\u5176\u662F\u6700\u8FD1\u8FD0\u7A0B\u5DEE\u3002"
+  onEnterActions: []
+  onExitActions: []
